@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(to right, #F6EFD2, rgb(197, 169, 124), #9a784a);
+    color: #5b3511;
+}
+
+.colortext{
+    color:#aa5864;
+}
+.colortextI{
+    color:wheat;
+}
+.fig {
+    text-align: center; /* Выравнивание по центру */ 
+   }
+
+.icon{
+    margin-left: 1000px
+}
+.colortextL{
+    color: #abba82;
+}
